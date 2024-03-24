@@ -1,0 +1,4 @@
+﻿Test_LInkedLIst.obj : error LNK2019: SLL_ApeendNodemain 함수에서 참조되는 확인할 수 없는 외부 기호
+Test_LInkedLIst.obj : error LNK2019: SLLL_GetNodeAtmain 함수에서 참조되는 확인할 수 없는 외부 기호
+Test_LInkedLIst.obj : error LNK2019: pirntfmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\Admin\OneDrive\문서\백준 - c언어\ex0103\x64\Debug\ex0103.exe : fatal error LNK1120: 3개의 확인할 수 없는 외부 참조입니다.
